@@ -1,0 +1,176 @@
+.inline{
+    display: inline;
+}
+.inline-block{
+    display: inline-block;
+}
+.move-left{
+    text-align:left;
+}
+                                                 /*defined area closed*/
+.header-casing{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: black;
+}
+.sign-in-casing:hover{
+    color: #10A2EF;
+    font-weight: bolder;
+     font-size: 1.2em;
+}
+.nav-btn-case{
+    color: #9DD2D8;
+}
+.head-01{
+    height: 80px;;
+    background-color: #FFFFFF;
+    border-color: #fff;
+}
+.marg{
+    margin: -20px 0 0 0;
+    background-color: #ECF5FA;
+    height: 10px;
+}
+.icon{
+    margin: 3px -2px 0 0px;
+    color: #10A2EF; 
+}
+.product {
+    background-image: url(download.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 505px;
+  width: 100%;
+    position: relative; 
+}
+
+.middle-text {
+  position: absolute;
+  bottom: 55%;
+  right: 50%;
+  transform: translate(50%, 50%);
+  border-radius: 5px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bolder; 
+    font-size: 1.5em;
+}
+.middle-text-01{
+    position: absolute;
+  bottom: 50%;
+  right: 50%;
+  transform: translate(45%, 45%);
+      color: white;
+  font-weight: bold;
+    font-size: 1.1em;
+}
+.search-bar{
+    background-color: white;
+    color: black;
+    width: 20%;
+    height: 40px;
+    position: absolute;
+    bottom: 38.5%;
+    right: 62%;
+    transform: translate(40%, 40%);
+    border-color: #6D787A;
+    border-bottom-color:#6D787A; 
+        border-radius: 5%;
+
+
+}
+.search-bar-location{
+    background-color: white;
+    color: black;
+    width: 15%;
+    height: 40px;
+    position: absolute;
+      bottom: 38%;
+      right: 45%;
+    transform: translate(40%, 35%);
+    text-transform: none;
+    border-color: #6D787A;
+    border-radius: 50%;
+}
+.middle-text-button{
+    position: absolute;
+    bottom: 38%;
+    right: 36%;
+    transform: translate(40%, 35%); 
+    width: 5%;
+    height: 39px;
+    background-color:#10A2EF;
+    border-radius: 50%;
+    
+}
+well{
+    background-color: #ECF5FA;
+}
+.suggestion-text{
+    text-align: center;
+    margin: 20px 0px;
+    font-weight: bold;
+    
+}
+.suggestion-images{
+    background-color: white;
+    border-color: black;
+    min-height: 250px;
+    width:280px;
+    margin-bottom: 5px;
+    position: relative;
+}
+.image-reshaping{
+    text-align: center;
+    height: 35%;
+    width: 35%;
+    border-radius: 100%;
+     position: absolute;
+    bottom: 55%;
+    right: 50%;
+    transform: translate(50%, 50%); 
+        border: 2px solid #4DBAF4;
+
+}
+.text-reshaping{
+     position: absolute;
+    bottom: 30%;
+    right: 50%;
+    transform: translate(50%, 50%); 
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
